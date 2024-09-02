@@ -36,7 +36,7 @@ nav{
     justify-content: space-around;
     margin: 0;
     & img {
-        width: 205px;
+        width: 120px;
         margin-left: -190px;
             /* float: left;
             margin-left: 250px; */
